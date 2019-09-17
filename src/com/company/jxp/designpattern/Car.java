@@ -2,6 +2,7 @@ package com.company.jxp.designpattern;
 
 /**
  * 车
+ * 原型模式 实现Cloneable接口
  */
 public class Car implements Cloneable {
     @Override
